@@ -1,0 +1,16 @@
+body {
+    background-color: aquamarine
+}
+
+header {
+    background-color: white;
+}
+
+.intro {
+	background-color: #ffa97f;
+	width: 50%; 
+	clear:both;
+	padding-right: 30px;
+    padding-left: 30px;
+	border: solid 1px #ddd
+}
